@@ -10,6 +10,7 @@ namespace SpaceEngineers
 {
     class Crane : MyGridProgram
     {
+        //just testing git
         IMyGridTerminalSystem GridTerminalSystem;
         List<IMyTerminalBlock> test = new List<IMyTerminalBlock>();
         IMyShipController controller;
